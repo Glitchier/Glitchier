@@ -7,7 +7,7 @@
   - 📸 [Instagram - no_drugs_only_coffee](https://www.instagram.com/no_drugs_only_coffee/)
   - ✨ [Behance - pratyushkumar8](https://www.behance.net/pratyushkumar8)
   - 🎨 [Deviantart - pratyush012](https://www.deviantart.com/pratyush012)<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Glitchier&&show_icons=true&title_color=ffffff&icon_color=66F051&text_color=ffffff&bg_color=D93F5B">
+<img src="https://github-readme-stats.vercel.app/api?username=Glitchier&&show_icons=true&title_color=ffffff&icon_color=46F094&text_color=ffffff&bg_color=D93F5B">
 
 <!---
 Glitchier/Glitchier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
