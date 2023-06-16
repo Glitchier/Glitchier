@@ -1,6 +1,6 @@
 ## Hi, I’m Pratyush Kumar @Glitchier <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 - 👀 I’m interested in web development and UI design.
-- 🌱 I’m currently learning Flutter with UI designing.
+- 🌱 I’m currently learning Next.js with Web UI designing.
 - 💞️ I’m looking to collaborate on ... (Not decided yet)
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me :
