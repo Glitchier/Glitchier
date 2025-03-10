@@ -38,16 +38,16 @@
 ## 🌍 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/pratyush-kumar">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://pratyush.dev">
-    <img src="https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=Firefox&logoColor=white" alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=devto" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/pratyushdev">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter"/>
   </a>
   <a href="https://github.com/Pratyush-Kumar">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   </a>
 </p>
 
