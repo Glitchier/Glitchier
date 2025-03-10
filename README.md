@@ -1,8 +1,10 @@
 # Hi there, 👋
 
-<h1>I'm Pratyush Kumar!</h1>
+<h1 align="left">I'm Pratyush Kumar!</h1>
 
-<img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" width="auto" height="400" alt="Octocat" />
+<div align="right">
+  <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" width="auto" height="400" alt="Octocat" />
+</div>
 
 ## 💻 About Me
 - 🚀 Full-Stack Developer (MERN & Next.js Enthusiast)
