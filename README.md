@@ -1,6 +1,4 @@
-# Hi there, 👋
-
-<h1 align="left">I'm Pratyush Kumar!</h1>
+# Hi, I'm Pratyush! 👋
 
 <table>
   <tr>
