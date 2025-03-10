@@ -9,7 +9,7 @@
 <p align="left">
   <ul>
     <li>🚀 Full-Stack Developer (MERN & Next.js Enthusiast)</li>
-    <li>🎓 MCA Graduate (2022)</li>
+    <li>🎓 Master of Computer Applications Graduate (2022)</li>
     <li>🔥 Passionate about building scalable and high-performance web applications.</li>
     <li>🌱 Currently improving my Next.js & TypeScript skills.</li>
     <li>🛠️ Love working with modern web technologies.</li>
