@@ -29,10 +29,8 @@
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glitchier&show_icons=true&theme=algolia" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glitchier&theme=algolia" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchier&layout=compact&theme=calm" alt="Top Languages"/>
+<p align="center">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glitchier&theme=algolia" alt="GitHub Streak"/>  
 </p>
 
 ## 🌍 Connect with Me
