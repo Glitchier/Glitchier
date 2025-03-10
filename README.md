@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="right" width="300" height="300" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Hey+there!+Welcome+to+my+GitHub!;MERN+Stack+Developer;Eat,+Sleep,+Code,+Repeat)](https://git.io/typing-svg)
 
 ## 💻 About Me
 
