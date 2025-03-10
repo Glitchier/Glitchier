@@ -2,15 +2,20 @@
 
 <h1 align="left">I'm Pratyush Kumar!</h1>
 
-<div align="right">
-  <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" width="auto" height="400" alt="Octocat" />
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h2>💻 About Me</h2>
+    <ul>
+      <li>🚀 Full-Stack Developer (MERN & Next.js Enthusiast)</li>
+      <li>🎓 MCA Graduate (2022)</li>
+      <li>🔥 Passionate about building scalable web applications</li>
+      <li>🌱 Currently improving my Next.js & TypeScript skills</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" width="auto" height="400" alt="Octocat" />
+  </div>
 </div>
-
-## 💻 About Me
-- 🚀 Full-Stack Developer (MERN & Next.js Enthusiast)
-- 🎓 MCA Graduate (2022)
-- 🔥 Passionate about building scalable web applications
-- 🌱 Currently improving my Next.js & TypeScript skills
 
 ## 🛠️ Technologies & Tools
 
