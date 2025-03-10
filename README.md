@@ -35,16 +35,16 @@
 
 ## 🌍 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/pratyush-kumar">
+  <a href="https://www.linkedin.com/in/pratyush-kumar-2059071b6">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="https://pratyush.dev">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Devto-logo.svg" width="40" height="40" alt="Portfolio"/>
   </a>
-  <a href="https://twitter.com/pratyushdev">
+  <a href="https://twitter.com/pratyush_K9">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" height="40" alt="X.com"/>
   </a>
-  <a href="https://github.com/Pratyush-Kumar">
+  <a href="https://github.com/Glitchier">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
