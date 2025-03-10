@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td valign="top">
-      <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" width="auto" height="400" alt="Octocat" />
+      <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" width="360" height="360" alt="Octocat" />
     </td>
   </tr>
 </table>
