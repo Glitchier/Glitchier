@@ -12,7 +12,7 @@
     <li>🎓 MCA Graduate (2022)</li>
     <li>🔥 Passionate about building scalable and high-performance web applications.</li>
     <li>🌱 Currently improving my Next.js & TypeScript skills.</li>
-    <li>🛠️ Love working with modern web technologies to create impactful digital experiences.</li>
+    <li>🛠️ Love working with modern web technologies.</li>
     <li>📜 Open to collaboration and exciting new opportunities in web development. </li>
   </ul>
 </p>
