@@ -1,7 +1,6 @@
 # Hi, I'm Pratyush 👋
 
 <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" align="right" width="300" height="300" />
-<h1 align="left"></h1>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=4cd964&size=24&width=500&lines=Full-Stack+Web+Developer;MERN+Stack+Developer;Nice+to+meet+you...)](https://git.io/typing-svg)
   <br>
