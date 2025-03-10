@@ -1,5 +1,5 @@
 # Hi, I'm Pratyush 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI+Designer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI/UX+Designer)](https://git.io/typing-svg)
 <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="right" width="300" height="300" />
 
 ### 💻 About Me
