@@ -25,7 +25,7 @@
 ### 🎨 Design & Editing Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design & Editing Tools" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DaVinci_Resolve_17_logo.svg" width="40" height="40" alt="DaVinci Resolve"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="40" height="40" alt="DaVinci Resolve"/>
 </p>
 
 ## 📊 GitHub Stats
