@@ -19,12 +19,13 @@
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Tools" />
 </p>
 
 ### 🎨 Design & Editing Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ai,ps,davinci" alt="Design & Editing Tools" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design & Editing Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/DaVinci_Resolve_17_logo.svg" width="40" height="40" alt="DaVinci Resolve"/>
 </p>
 
 ## 📊 GitHub Stats
