@@ -39,7 +39,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Devto-logo.svg" width="40" height="40" alt="Portfolio"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" width="40" height="40" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/pratyush_K9">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" height="40" alt="X.com"/>
