@@ -2,9 +2,9 @@
 
 <h1 align="left">I'm Pratyush Kumar!</h1>
 
-<table style="border-collapse: collapse; border: none;">
+<table>
   <tr>
-    <td style="border: none;">
+    <td valign="top">
       <h2>💻 About Me</h2>
       <ul>
         <li>🚀 Full-Stack Developer (MERN & Next.js Enthusiast)</li>
@@ -13,13 +13,16 @@
         <li>🌱 Currently improving my Next.js & TypeScript skills.</li>
         <li>💡 Strong problem-solving skills and a keen eye for design and performance optimization.</li>
         <li>🛠️ Love working with modern web technologies to create impactful digital experiences.</li>
+        <li>📜 Open to collaboration and exciting new opportunities in web development.</li>
       </ul>
     </td>
-    <td style="border: none;">
+    <td valign="top">
       <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" width="auto" height="400" alt="Octocat" />
     </td>
   </tr>
 </table>
+
+---
 
 ## 🛠️ Technologies & Tools
 
@@ -27,22 +30,30 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,mysql,postgres,cpp,java,python" alt="Tech Stack" />
 </p>
+<p><em>Building high-quality web applications with modern frameworks and libraries.</em></p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Tools" />
 </p>
+<p><em>Optimizing workflow with efficient development and collaboration tools.</em></p>
 
 ### 🎨 Design & Editing Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps" alt="Design & Editing Tools" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="40" height="40" alt="DaVinci Resolve"/>
 </p>
+<p><em>Designing user-friendly interfaces and creating engaging visual content.</em></p>
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glitchier&theme=algolia" alt="GitHub Streak"/>  
 </p>
+<p align="center"><em>Consistency is key! 🔥</em></p>
+
+---
 
 ## 🌍 Connect with Me
 <p align="left">
@@ -59,6 +70,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
+<p><em>Let's connect and build something amazing! 🚀</em></p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
