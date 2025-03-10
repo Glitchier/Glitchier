@@ -7,25 +7,15 @@
   <br>
 <hr>
 
-<table>
-  <tr>
-    <td valign="top">
-      <h2>💻 About Me</h2>
-      <ul>
-        <li>🚀 Full-Stack Developer (MERN & Next.js Enthusiast)</li>
-        <li>🎓 MCA Graduate (2022)</li>
-        <li>🔥 Passionate about building scalable and high-performance web applications.</li>
-        <li>🌱 Currently improving my Next.js & TypeScript skills.</li>
-        <li>💡 Strong problem-solving skills and a keen eye for design and performance optimization.</li>
-        <li>🛠️ Love working with modern web technologies to create impactful digital experiences.</li>
-        <li>📜 Open to collaboration and exciting new opportunities in web development.</li>
-      </ul>
-    </td>
-    <td valign="top">
-      <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat-1741592344314.png" width="360" height="360" alt="Octocat" />
-    </td>
-  </tr>
-</table>
+## 💻 About Me
+
+🚀 Full-Stack Developer (MERN & Next.js Enthusiast)  
+🎓 MCA Graduate (2022)  
+🔥 Passionate about building scalable and high-performance web applications.  
+🌱 Currently improving my Next.js & TypeScript skills.  
+💡 Strong problem-solving skills and a keen eye for design and performance optimization.  
+🛠️ Love working with modern web technologies to create impactful digital experiences.  
+📜 Open to collaboration and exciting new opportunities in web development. 
 
 ---
 
