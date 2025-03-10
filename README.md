@@ -1,4 +1,6 @@
-# Hi there, I'm Pratyush Kumar! 👋
+# Hi there, 👋
+
+<h1>I'm Pratyush Kumar!</h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212748845-2b64c44d-a5bf-4fd3-b90e-03f7661600a8.gif" width="500"/>
