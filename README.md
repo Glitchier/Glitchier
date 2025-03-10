@@ -14,7 +14,7 @@
 
 ### 🚀 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,mysql,postgres,c,cpp,java,python" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,mysql,postgres,cpp,java,python" alt="Tech Stack" />
 </p>
 
 ### 🛠️ Tools & Platforms
