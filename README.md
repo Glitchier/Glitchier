@@ -13,6 +13,8 @@
 🛠️ Love working with modern web technologies to create impactful digital experiences.  
 📜 Open to collaboration and exciting new opportunities in web development. 
 
+<br>
+
 ## 🛠️ Technologies & Tools
 
 ### 🚀 Languages & Frameworks
