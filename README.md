@@ -18,7 +18,7 @@
 </p>
 <br>
 
-## <h2>🛠️ Technologies & Tools</h2>
+## 🛠️ Technologies & Tools
 
 ### 🚀 Languages & Frameworks
 <p align="left">
