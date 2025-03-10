@@ -14,12 +14,19 @@
 
 ### 🚀 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,redux,mysql,postgres" alt="Tech Stack" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma" alt="Tools" />
+</p>
+
+### 🎨 Design & Editing Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-FF6C37?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="Davinci Resolve"/>
 </p>
 
 ## 📊 GitHub Stats
