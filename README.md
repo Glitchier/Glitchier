@@ -24,9 +24,7 @@
 
 ### 🎨 Design & Editing Tools
 <p align="left">
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-FF6C37?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="Davinci Resolve"/>
+  <img src="https://skillicons.dev/icons?i=ai,ps,davinci" alt="Design & Editing Tools" />
 </p>
 
 ## 📊 GitHub Stats
