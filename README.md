@@ -42,7 +42,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Devto-logo.svg" width="40" height="40" alt="Portfolio"/>
   </a>
   <a href="https://twitter.com/pratyushdev">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" width="40" height="40" alt="X.com"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" height="40" alt="X.com"/>
   </a>
   <a href="https://github.com/Pratyush-Kumar">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub"/>
