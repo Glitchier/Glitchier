@@ -9,12 +9,9 @@
 🚀 Full-Stack Developer (MERN & Next.js Enthusiast)  
 🎓 MCA Graduate (2022)  
 🔥 Passionate about building scalable and high-performance web applications.  
-🌱 Currently improving my Next.js & TypeScript skills.  
-💡 Strong problem-solving skills and a keen eye for design and performance optimization.  
+🌱 Currently improving my Next.js & TypeScript skills.    
 🛠️ Love working with modern web technologies to create impactful digital experiences.  
 📜 Open to collaboration and exciting new opportunities in web development. 
-
----
 
 ## 🛠️ Technologies & Tools
 
