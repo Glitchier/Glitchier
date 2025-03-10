@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=👋+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI+Designer)](https://git.io/typing-svg)
 
-### 💻 About Me
+### <h1>💻 About Me</h1>
 
 <p align="left">
   <ul>
