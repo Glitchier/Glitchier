@@ -30,9 +30,9 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyush-Kumar&show_icons=true&theme=algolia" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratyush-Kumar&theme=algolia" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush-Kumar&layout=compact&theme=calm" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Glitchier&show_icons=true&theme=algolia" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glitchier&theme=algolia" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glitchier&layout=compact&theme=calm" alt="Top Languages"/>
 </p>
 
 ## 🌍 Connect with Me
