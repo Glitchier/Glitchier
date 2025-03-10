@@ -1,5 +1,6 @@
 # Hi there, 👋
 <h1>I'm Pratyush Kumar!</h1>
+<br/>
 ## 💻 About Me
 - 🚀 Full-Stack Developer (MERN & Next.js Enthusiast)
 - 🎓 MCA Graduate (2022)
