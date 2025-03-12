@@ -43,6 +43,14 @@
   <p align="center" >
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Github Stats"  />
   </p> 
+  <p>
+    <a href="https://github.com/SachinSemwal007">
+      <span>
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Glitchier&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi"/>
+        <img align="right" src="https://github-readme-stats.vercel.app/api?username=Glitchier&show_icons=true&locale=en&theme=algolia" alt="ovi" width="400px"/>
+      </span>
+    </a>
+  </p>
 <p align="center"><em>Consistency is key! 🔥</em></p>
 
 ---
