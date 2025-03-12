@@ -43,6 +43,7 @@
   <p align="center" >
     <img src="http://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Github Stats"  />
   </p> 
+  <br>
   <p>
     <a href="https://github.com/SachinSemwal007">
       <span>
@@ -52,8 +53,7 @@
     </a>
   </p>
 <p align="center"><em>Consistency is key! 🔥</em></p>
-
----
+<br>
 
 ## 🌍 Connect with Me
 <p align="left">
