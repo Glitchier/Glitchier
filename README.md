@@ -2,9 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI/UX+Designer)](https://git.io/typing-svg)
 
-<img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="right" width="300" height="300" />
+<img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="right" width="256" height="256" />
 
-# 💻 About Me
+### 💻 About Me
 
 - 🚀 Full-Stack Developer (MERN & Next.js Enthusiast)
 - 🎓 Master of Computer Applications Graduate (2022)
@@ -13,6 +13,7 @@
 - 🛠️ Love working with modern web technologies.
 - 📜 Open to collaboration and exciting new opportunities in web development.
 
+<br><br><br>
 
 ## 🛠️ Technologies & Tools
 
@@ -41,8 +42,10 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glitchier&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glitchier&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glitchier&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" width="48%" />  
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Glitchier&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" width="48%" />
 </p>
 
 <p align="center"><em>Consistency is key! 🔥</em></p>
@@ -53,16 +56,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyush-kumar-2059071b6">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" width="40" height="40" alt="Portfolio"/>
+    <img src="https://img.icons8.com/?size=100&id=13369&format=png&color=000000" width="40" height="40" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/pratyush_K9">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" width="40" height="40" alt="X.com"/>
+    <img src="https://img.icons8.com/?size=100&id=60469&format=png&color=000000" width="40" height="40" alt="Twitter/X"/>
   </a>
   <a href="https://github.com/Glitchier">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="40" height="40" alt="GitHub"/>
+    <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" width="40" height="40" alt="GitHub"/>
   </a>
 </p>
 
