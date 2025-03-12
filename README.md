@@ -4,7 +4,7 @@
 
 <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="right" width="300" height="300" />
 
-## 💻 About Me
+### 💻 About Me
 
 - 🚀 Full-Stack Developer (MERN & Next.js Enthusiast)
 - 🎓 Master of Computer Applications Graduate (2022)
@@ -13,7 +13,6 @@
 - 🛠️ Love working with modern web technologies.
 - 📜 Open to collaboration and exciting new opportunities in web development.
 
----
 
 ## 🛠️ Technologies & Tools
 
