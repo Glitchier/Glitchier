@@ -41,7 +41,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glitchier&theme=algolia" alt="GitHub Streak"/>  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia)](https://git.io/streak-stats)  
 </p>
 <p align="center"><em>Consistency is key! 🔥</em></p>
 
