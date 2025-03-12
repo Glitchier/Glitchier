@@ -40,7 +40,9 @@
 ---
 
 ## 📊 GitHub Stats
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia)](https://git.io/streak-stats)  
+  <p align="center" >
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia&hide_border=false&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+  </p> 
 <p align="center"><em>Consistency is key! 🔥</em></p>
 
 ---
