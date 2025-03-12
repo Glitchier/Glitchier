@@ -45,7 +45,7 @@
   </p> 
   <br>
   <p>
-    <a href="https://github.com/SachinSemwal007">
+    <a href="https://github.com/Glitchier">
       <span>
         <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Glitchier&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ovi"/>
         <img align="right" src="https://github-readme-stats.vercel.app/api?username=Glitchier&show_icons=true&locale=en&theme=algolia" alt="ovi" width="400px"/>
