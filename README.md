@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI/UX+Designer)](https://git.io/typing-svg)
 
-<img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="right" width="256px" height="256px" />
+<img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="center" style="width:256px; height:256px;" />
 
 ### 💻 About Me
 <ul>
