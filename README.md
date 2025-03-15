@@ -38,9 +38,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia" alt="Github Stats"  />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Glitchier&theme=algolia)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glitchier&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" width="48%" />  
