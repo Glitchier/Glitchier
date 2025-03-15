@@ -57,16 +57,22 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyush-kumar-2059071b6">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="40" height="40" alt="LinkedIn"/>
   </a>
   <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=13369&format=png&color=000000" width="40" height="40" alt="Portfolio" />
+    <img src="https://img.icons8.com/?size=100&id=52992&format=png&color=000000" width="40" height="40" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/pratyush_K9">
-    <img src="https://img.icons8.com/?size=100&id=60469&format=png&color=000000" width="40" height="40" alt="Twitter/X"/>
+    <img src="https://img.icons8.com/?size=100&id=bYzsf9Bmocst&format=png&color=000000" width="40" height="40" alt="Twitter/X"/>
   </a>
   <a href="https://github.com/Glitchier">
     <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" width="40" height="40" alt="GitHub"/>
+  </a>
+  <a href="https://www.behance.net/pratyushkumar8">
+    <img src="https://img.icons8.com/?size=100&id=kOFv7syFcaqY&format=png&color=000000" width="40" height="40" alt="Behance"/>
+  </a>
+  <a href="https://www.deviantart.com/pratyush012">
+    <img src="https://img.icons8.com/?size=100&id=kOFv7syFcaqY&format=png&color=000000" width="40" height="40" alt="DeviantArt"/>
   </a>
 </p>
 
