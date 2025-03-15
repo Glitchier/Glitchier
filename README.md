@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 
 <p align="center" >
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Github Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia&date_format=j%20M%5B%20Y%5D&fire=DD2727" alt="Github Stats" />
 </p>
 
 <p align="center">
