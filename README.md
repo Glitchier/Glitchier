@@ -14,7 +14,7 @@
   <li>📜 Open to collaboration and exciting new opportunities in web development.</li>
 </ul>
 
-<br><br><br>
+<br>
 
 ## 🛠️ Technologies & Tools
 
