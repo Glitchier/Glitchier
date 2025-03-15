@@ -39,7 +39,7 @@
 ## 📊 GitHub Stats
 
 <p align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Glitchier&theme=algolia" alt="GitHub Streak Stats" crossorigin="anonymous" />
+  <img src="https://streak-stats.demolab.com?user=Glitchier&theme=algolia" alt="GitHub Streak Stats" crossorigin="anonymous" />
 </p>
 
 <p align="center">
