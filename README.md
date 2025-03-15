@@ -72,7 +72,7 @@
     <img src="https://img.icons8.com/?size=100&id=kOFv7syFcaqY&format=png&color=000000" width="40" height="40" alt="Behance"/>
   </a>
   <a href="https://www.deviantart.com/pratyush012">
-    <img src="https://img.icons8.com/?size=100&id=kOFv7syFcaqY&format=png&color=000000" width="40" height="40" alt="DeviantArt"/>
+    <img src="https://img.icons8.com/?size=100&id=fzBjOB1wYvGu&format=png&color=000000" width="40" height="40" alt="DeviantArt"/>
   </a>
 </p>
 
