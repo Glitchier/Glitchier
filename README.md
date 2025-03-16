@@ -1,9 +1,13 @@
 # Hi, I’m Pratyush 👋🏻
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI/UX+Designer)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
+</p>
+
+
 
 <p align="center">
-  <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="center" style="width:200px;height:200px;" />
+  <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="center" style="width:256px;height:256px;" />
 </p>
 
 # 💻 About Me
