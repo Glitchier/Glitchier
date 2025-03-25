@@ -1,4 +1,4 @@
-# Hi, I’m Pratyush 👋🏻
+# <a " href="My Portfolio" target="_blank">Hi, I’m Pratyush 👋🏻</a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
@@ -18,7 +18,7 @@
   <li>🌱 Currently improving my Next.js & TypeScript skills.</li>
   <li>🛠️ Love working with modern web technologies.</li>
   <li>📜 Open to collaboration and exciting new opportunities in web development.</li>
-  <li>🌐 Visit <a href="https://pratyush-kumar.vercel.app/">My Portfolio</a> to know more.</li>
+  <li>🌐 Visit <a href="https://pratyush-kumar.vercel.app/" target="_blank">My Portfolio</a> to know more.</li>
 </ul>
 
 <br>
