@@ -40,36 +40,29 @@
 ### 🛠️ Technologies & Tools
 
 #### 🚀 Languages & Frameworks
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,python,redux,tailwind,vite,cpp,java&theme=dark" alt="Languages & Frameworks" />
 </p>
 
 #### 💾 Databases & Cloud
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase&theme=dark" alt="Databases" />
 </p>
 
 #### 🛠️ Tools & Platforms
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="Tools & Platforms" />
 </p>
 
 #### 🎨 Design & Creative
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" alt="Design Tools" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
 </p>
-
-<br />
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :---: |
-| **Forever E-Commerce** | Full-stack e-commerce store with product management, cart, and Stripe/Razorpay payments. | `React` `TypeScript` `Express` `MongoDB` | [Live Demo](https://forever-e-commerce-ivory.vercel.app/) · [Code](https://github.com/Glitchier/forever_e-commerce_app) |
-| **Frost Weather** | Real-time weather and multi-day forecasts with interactive temperature charts. | `React` `TypeScript` `Recharts` | [Live Demo](https://frost-weather.vercel.app/) · [Code](https://github.com/Glitchier/Frost_Weather) |
-| **Ghar Naksha Wala** | House-planning and architecture showcase web app with interactive service catalog. | `React` `TypeScript` `shadcn/ui` `Motion` | [Live Demo](https://ghar-naksha-wala.vercel.app/) · [Code](https://github.com/Glitchier/Ghar_Naksha_Wala) |
-| **Personal Portfolio** | Minimalist portfolio built with App Router, server-rendered icons, command menu, and view transitions. | `Next.js 16` `React 19` `Tailwind v4` | [Live Demo](https://pratyush-kumar.vercel.app/) · [Overview](https://github.com/Glitchier) |
 
 <br />
 
