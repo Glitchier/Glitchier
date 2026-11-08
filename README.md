@@ -1,95 +1,98 @@
-# <a href="https://pratyush-kumar.vercel.app/" target="_blank">Hi, I’m Pratyush 👋🏻</a>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Glitchier/Glitchier/main/octocat.png" width="160" alt="Pratyush Kumar" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3498DB&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%91%8B+Welcome+to+my+GitHub!;MERN+Stack+Developer;UI%2FUX+Designer" alt="Typing SVG" />
-</p>
+  <h1>Hi, I'm Pratyush Kumar 👋</h1>
 
+  <p>
+    <a href="https://pratyush-kumar.vercel.app">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=480&lines=Full-Stack+Web+Developer;React+%26+Next.js;Python+%26+FastAPI;Building+Modern+Web+Apps" alt="Typing SVG" />
+    </a>
+  </p>
 
+  <p>
+    <a href="https://pratyush-kumar.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-pratyush--kumar.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/pratyush-kumar-2059071b6/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Pratyush_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.behance.net/pratyushkumar8" target="_blank">
+      <img src="https://img.shields.io/badge/Behance-pratyushkumar8-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
+    </a>
+    <a href="mailto:pratyushkumar072@gmail.com">
+      <img src="https://img.shields.io/badge/Email-pratyushkumar072@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://github.com/Glitchier/Glitchier/blob/main/octocat.png" align="center" style="width:256px;height:256px;" />
-</p>
+<br />
 
-# 💻 About Me
-<ul>
-  <li>🚀 Full-Stack Developer (MERN & Next.js Enthusiast)</li>
-  <li>🎓 Master of Computer Applications Graduate (2022)</li>
-  <li>🔥 Passionate about building scalable and high-performance web applications.</li>
-  <li>🌱 Currently improving my Next.js & TypeScript skills.</li>
-  <li>🛠️ Love working with modern web technologies.</li>
-  <li>📜 Open to collaboration and exciting new opportunities in web development.</li>
-  <li>🌐 Visit <a href="https://pratyush-kumar.vercel.app/" target="_blank">My Portfolio</a> to know more.</li>
-</ul>
+### 💫 About Me
 
-<br>
+- 🚀 **Full-Stack Developer** passionate about crafting fast, scalable, and responsive web applications.
+- ⚡ Working with **Next.js**, **React**, **TypeScript**, **Python**, and **FastAPI**.
+- 🛠️ Love building end-to-end products — from intuitive user interfaces to robust backend architectures.
+- 🌱 Continuously exploring modern web frameworks, open-source projects, and creative UI engineering.
+- 🌐 Explore my live projects, demos, and creative work at **[pratyush-kumar.vercel.app](https://pratyush-kumar.vercel.app)**.
 
-## 🛠️ Technologies & Tools
+<br />
 
-### 🚀 Languages & Frameworks
+### 🛠️ Technologies & Tools
+
+#### 🚀 Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,redux,cpp,java,python&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,fastapi,python,redux,tailwind,vite,cpp,java&theme=dark" alt="Languages & Frameworks" />
 </p>
 
-### 💾 Databases
+#### 💾 Databases & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,supabase&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,supabase,firebase&theme=dark" alt="Databases" />
 </p>
 
-### 🛠️ Tools & Platforms
+#### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=light" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&theme=dark" alt="Tools & Platforms" />
 </p>
 
-### 🎨 Design & Editing Tools
+#### 🎨 Design & Creative
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=light" alt="Design & Editing Tools" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="40" height="40" alt="DaVinci Resolve"/>
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" alt="Design Tools" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" width="48" height="48" alt="DaVinci Resolve"/>
 </p>
 
----
+<br />
 
-## 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<p align="center" >
-  <img src="https://streak-stats.demolab.com?user=Glitchier&theme=algolia" alt="GitHub Streak Stats" crossorigin="anonymous" />
-</p>
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :---: |
+| **Forever E-Commerce** | Full-stack e-commerce store with product management, cart, and Stripe/Razorpay payments. | `React` `TypeScript` `Express` `MongoDB` | [Live Demo](https://forever-e-commerce-ivory.vercel.app/) · [Code](https://github.com/Glitchier/forever_e-commerce_app) |
+| **Frost Weather** | Real-time weather and multi-day forecasts with interactive temperature charts. | `React` `TypeScript` `Recharts` | [Live Demo](https://frost-weather.vercel.app/) · [Code](https://github.com/Glitchier/Frost_Weather) |
+| **Ghar Naksha Wala** | House-planning and architecture showcase web app with interactive service catalog. | `React` `TypeScript` `shadcn/ui` `Motion` | [Live Demo](https://ghar-naksha-wala.vercel.app/) · [Code](https://github.com/Glitchier/Ghar_Naksha_Wala) |
+| **Personal Portfolio** | Minimalist portfolio built with App Router, server-rendered icons, command menu, and view transitions. | `Next.js 16` `React 19` `Tailwind v4` | [Live Demo](https://pratyush-kumar.vercel.app/) · [Overview](https://github.com/Glitchier) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Glitchier&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" width="500px" />  
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Glitchier&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" width="500px" />
-</p>
+<br />
 
-<p align="center"><em>Consistency is key! 🔥</em></p>
+### 📊 GitHub Activity & Stats
 
----
-
-## 🌍 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratyush-kumar-2059071b6">
-    <img src="https://img.icons8.com/?size=100&id=44019&format=png&color=000000" width="40" height="40" alt="LinkedIn"/>
-  </a>
-  <a href="#">
-    <img src="https://img.icons8.com/?size=100&id=52992&format=png&color=000000" width="40" height="40" alt="Portfolio" />
-  </a>
-  <a href="https://twitter.com/pratyush_K9">
-    <img src="https://img.icons8.com/?size=100&id=bYzsf9Bmocst&format=png&color=000000" width="40" height="40" alt="Twitter/X"/>
-  </a>
+<div align="center">
   <a href="https://github.com/Glitchier">
-    <img src="https://img.icons8.com/?size=100&id=52539&format=png&color=000000" width="40" height="40" alt="GitHub"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Glitchier&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Glitchier&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
   </a>
-  <a href="https://www.behance.net/pratyushkumar8">
-    <img src="https://img.icons8.com/?size=100&id=kOFv7syFcaqY&format=png&color=000000" width="40" height="40" alt="Behance"/>
+  <br /><br />
+  <a href="https://github.com/Glitchier">
+    <img src="https://streak-stats.demolab.com?user=Glitchier&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
-  <a href="https://www.deviantart.com/pratyush012">
-    <img src="https://img.icons8.com/?size=100&id=fzBjOB1wYvGu&format=png&color=000000" width="40" height="40" alt="DeviantArt"/>
-  </a>
-</p>
+</div>
 
-<p align="center"><em>Let's connect and build something amazing! 🚀</em></p>
+<br />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
-</p>
+---
+
+<div align="center">
+  <p><i>"Building fast, clean web apps end to end — from the interface to the APIs behind it."</i></p>
+  <p>
+    <b>Let's collaborate! Reach out via <a href="mailto:pratyushkumar072@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/pratyush-kumar-2059071b6/">LinkedIn</a>.</b>
+  </p>
+</div>
