@@ -1,28 +1,16 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Glitchier/Glitchier/main/octocat.png" width="160" alt="Pratyush Kumar" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Pratyush%20Kumar&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%E2%80%A2%20Next.js%20%E2%80%A2%20Fast%20API&descAlignY=55&descAlign=50&descSize=18" width="100%" />
+</div>
 
-  <h1>Hi, I'm Pratyush Kumar 👋</h1>
+<div align="center">
 
-  <p>
-    <a href="https://pratyush-kumar.vercel.app">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=480&lines=Full-Stack+Web+Developer;React+%26+Next.js;Python+%26+FastAPI;Building+Modern+Web+Apps" alt="Typing SVG" />
-    </a>
-  </p>
+### 🚀 Building Fast, Scalable Web Apps From Interface to API
 
-  <p>
-    <a href="https://pratyush-kumar.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-pratyush--kumar.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/pratyush-kumar-2059071b6/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Pratyush_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.behance.net/pratyushkumar8" target="_blank">
-      <img src="https://img.shields.io/badge/Behance-pratyushkumar8-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-    </a>
-    <a href="mailto:pratyushkumar072@gmail.com">
-      <img src="https://img.shields.io/badge/Email-pratyushkumar072@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratyush-kumar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-kumar-2059071b6/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pratyushkumar8)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushkumar072@gmail.com)
+
 </div>
 
 <br />
