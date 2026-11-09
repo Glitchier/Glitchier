@@ -15,6 +15,12 @@
 
 <br />
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&width=700&height=70&lines=Building+Fast+%26+Scalable+Web+Apps;Next.js+%7C+React+%7C+TypeScript;FastAPI+%7C+Python+%7C+MongoDB;From+Interface+to+API%2C+End+to+End" alt="Typing Animation" />
+</div>
+
+<br />
+
 ### 💫 About Me
 
 - 🚀 **Full-Stack Developer** passionate about crafting fast, scalable, and responsive web applications.
