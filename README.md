@@ -77,9 +77,40 @@
 
 ---
 
+## 📫 Let's Connect
+
+<div align="center">
+
+**💬 Open to exciting full-stack roles, freelance projects, and collaborations!**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pratyush-kumar.vercel.app)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratyushkumar072@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyush-kumar-2059071b6/)
+[![Behance](https://img.shields.io/badge/View_on_Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pratyushkumar8)
+
+</div>
+
+<br>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Glitchier&label=Profile%20Views&color=6366F1&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Glitchier?label=Followers&style=for-the-badge&color=6366F1)
+
+</div>
+
+<br>
+
 <div align="center">
   <p><i>"Building fast, clean web apps end to end — from the interface to the APIs behind it."</i></p>
-  <p>
-    <b>Let's collaborate! Reach out via <a href="mailto:pratyushkumar072@gmail.com">Email</a> or connect on <a href="https://www.linkedin.com/in/pratyush-kumar-2059071b6/">LinkedIn</a>.</b>
-  </p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+</div>
+
+<div align="center">
+  <sub>⚡ <strong>From Interface to API - One Commit at a Time</strong> ⚡</sub>
 </div>
